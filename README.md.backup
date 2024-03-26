@@ -1,0 +1,5 @@
+## software config
+
+place the tilda folder in 
+/home/user/.config/
+doe this before running tilda after intalling it. that way it picks it up and you dont have multiple configs, which it supports but is a headache if you dont need it.  it's hot key will be the "insert" key. You can change this i
